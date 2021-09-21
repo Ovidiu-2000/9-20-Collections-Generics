@@ -1,0 +1,16 @@
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\bin\Debug\net5.0\SortedListInDescendingOrder.exe
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\bin\Debug\net5.0\SortedListInDescendingOrder.deps.json
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\bin\Debug\net5.0\SortedListInDescendingOrder.runtimeconfig.json
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\bin\Debug\net5.0\SortedListInDescendingOrder.runtimeconfig.dev.json
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\bin\Debug\net5.0\SortedListInDescendingOrder.dll
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\bin\Debug\net5.0\ref\SortedListInDescendingOrder.dll
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\bin\Debug\net5.0\SortedListInDescendingOrder.pdb
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\obj\Debug\net5.0\SortedListInDescendingOrder.csproj.AssemblyReference.cache
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\obj\Debug\net5.0\SortedListInDescendingOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\obj\Debug\net5.0\SortedListInDescendingOrder.AssemblyInfoInputs.cache
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\obj\Debug\net5.0\SortedListInDescendingOrder.AssemblyInfo.cs
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\obj\Debug\net5.0\SortedListInDescendingOrder.csproj.CoreCompileInputs.cache
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\obj\Debug\net5.0\SortedListInDescendingOrder.dll
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\obj\Debug\net5.0\ref\SortedListInDescendingOrder.dll
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\obj\Debug\net5.0\SortedListInDescendingOrder.pdb
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\obj\Debug\net5.0\SortedListInDescendingOrder.genruntimeconfig.cache

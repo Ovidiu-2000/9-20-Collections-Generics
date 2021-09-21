@@ -1,0 +1,16 @@
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\CharactersAndNumberOfOccurences\bin\Debug\net5.0\CharactersAndNumberOfOccurences.exe
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\CharactersAndNumberOfOccurences\bin\Debug\net5.0\CharactersAndNumberOfOccurences.deps.json
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\CharactersAndNumberOfOccurences\bin\Debug\net5.0\CharactersAndNumberOfOccurences.runtimeconfig.json
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\CharactersAndNumberOfOccurences\bin\Debug\net5.0\CharactersAndNumberOfOccurences.runtimeconfig.dev.json
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\CharactersAndNumberOfOccurences\bin\Debug\net5.0\CharactersAndNumberOfOccurences.dll
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\CharactersAndNumberOfOccurences\bin\Debug\net5.0\ref\CharactersAndNumberOfOccurences.dll
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\CharactersAndNumberOfOccurences\bin\Debug\net5.0\CharactersAndNumberOfOccurences.pdb
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\CharactersAndNumberOfOccurences\obj\Debug\net5.0\CharactersAndNumberOfOccurences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\CharactersAndNumberOfOccurences\obj\Debug\net5.0\CharactersAndNumberOfOccurences.AssemblyInfoInputs.cache
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\CharactersAndNumberOfOccurences\obj\Debug\net5.0\CharactersAndNumberOfOccurences.AssemblyInfo.cs
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\CharactersAndNumberOfOccurences\obj\Debug\net5.0\CharactersAndNumberOfOccurences.csproj.CoreCompileInputs.cache
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\CharactersAndNumberOfOccurences\obj\Debug\net5.0\CharactersAndNumberOfOccurences.dll
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\CharactersAndNumberOfOccurences\obj\Debug\net5.0\ref\CharactersAndNumberOfOccurences.dll
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\CharactersAndNumberOfOccurences\obj\Debug\net5.0\CharactersAndNumberOfOccurences.pdb
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\CharactersAndNumberOfOccurences\obj\Debug\net5.0\CharactersAndNumberOfOccurences.genruntimeconfig.cache
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\CharactersAndNumberOfOccurences\obj\Debug\net5.0\CharactersAndNumberOfOccurences.csproj.AssemblyReference.cache

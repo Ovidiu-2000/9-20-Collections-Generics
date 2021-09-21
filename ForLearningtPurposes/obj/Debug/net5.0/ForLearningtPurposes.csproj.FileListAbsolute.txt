@@ -1,0 +1,16 @@
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\bin\Debug\net5.0\ForLearningtPurposes.exe
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\bin\Debug\net5.0\ForLearningtPurposes.deps.json
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\bin\Debug\net5.0\ForLearningtPurposes.runtimeconfig.json
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\bin\Debug\net5.0\ForLearningtPurposes.runtimeconfig.dev.json
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\bin\Debug\net5.0\ForLearningtPurposes.dll
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\bin\Debug\net5.0\ref\ForLearningtPurposes.dll
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\bin\Debug\net5.0\ForLearningtPurposes.pdb
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\obj\Debug\net5.0\ForLearningtPurposes.csproj.AssemblyReference.cache
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\obj\Debug\net5.0\ForLearningtPurposes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\obj\Debug\net5.0\ForLearningtPurposes.AssemblyInfoInputs.cache
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\obj\Debug\net5.0\ForLearningtPurposes.AssemblyInfo.cs
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\obj\Debug\net5.0\ForLearningtPurposes.csproj.CoreCompileInputs.cache
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\obj\Debug\net5.0\ForLearningtPurposes.dll
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\obj\Debug\net5.0\ref\ForLearningtPurposes.dll
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\obj\Debug\net5.0\ForLearningtPurposes.pdb
+C:\Users\odomanciuc\source\repos\ForLearningtPurposes\ForLearningtPurposes\obj\Debug\net5.0\ForLearningtPurposes.genruntimeconfig.cache
